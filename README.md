@@ -1,4 +1,7 @@
-# api documentation for  [jitsu (v0.15.0)](https://github.com/nodejitsu/jitsu)  [![npm package](https://img.shields.io/npm/v/npmdoc-jitsu.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jitsu) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jitsu.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jitsu)
+# npmdoc-jitsu
+
+#### basic api documentation for  [jitsu (v0.15.0)](https://github.com/nodejitsu/jitsu)  [![npm package](https://img.shields.io/npm/v/npmdoc-jitsu.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jitsu) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jitsu.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jitsu)
+
 #### Flawless command line deployment of Node.js apps to the cloud
 
 [![NPM](https://nodei.co/npm/jitsu.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jitsu)
